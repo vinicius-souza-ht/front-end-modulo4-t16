@@ -1,0 +1,12 @@
+{
+  "name": "vueproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "login.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
